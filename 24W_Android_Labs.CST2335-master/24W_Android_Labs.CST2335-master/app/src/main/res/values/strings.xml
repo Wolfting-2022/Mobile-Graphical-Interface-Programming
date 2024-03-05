@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ting\'s Android Labs</string>
+    <string name="hello_message">Type your Password: </string>
+    <string name="button_message">Login</string>
+    <string name="my_editText">Enter your password</string>
+
+
+</resources>
