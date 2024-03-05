@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ting\'s Android Labs</string>
+    <string name="hello_message">Hello World!</string>
+    <string name="button_message">I\'M A BUTTON</string>
+    <string name="editmessage">I\'M A EditText</string>
+    <string name="hinttext">Write something here</string>
+</resources>
