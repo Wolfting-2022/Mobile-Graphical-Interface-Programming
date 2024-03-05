@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Ting\'s Android Labs</string>
+    <string name="hello_message">Type your Password: </string>
+    <string name="button_message">Login</string>
+    <string name="message_goes_here">Message goes here</string>
+
+    <string name="time_goes_here">Time goes here</string>
+    <string name="type">Type here</string>
+    <string name="send">SEND</string>
+    <string name="receive">RECEIVE</string>
+
+    <string name="sent_image">Send Image</string>
+    <string name="receive_image">Receive Image</string>
+
+
+
+</resources>
